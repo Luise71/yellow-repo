@@ -1,3 +1,3 @@
 # yellow-repo
 
-LOCAL 123
+LOCAL
